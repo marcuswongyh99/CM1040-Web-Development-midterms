@@ -1,1 +1,1 @@
-# CM1040-Web-Development-midterms
+# CM1040-Web-Development-Finals
